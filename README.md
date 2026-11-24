@@ -1,6 +1,6 @@
 # Adaptive Volumetric Parameterization of Simply Connected 3-Manifolds
 
-<img src = "https://github.com/garyptchoi/adaptive-volumetric-map/blob/master/cover.jpg" height="300" />
+<img src = "https://github.com/garyptchoi/adaptive-volumetric-map/blob/main/cover.jpg" height="300" />
 
 
 `AdaptiveVolumetricMap` computes adaptive volumetric parameterizations of simply connected 3-manifolds, with three methods available (fixed ellipsoidal, adaptive ellipsoidal, and free-boundary volumetric parameterization). All three methods control local shape distortion while equalizing a prescribed mass distribution. They differ in how the target boundary can move.
